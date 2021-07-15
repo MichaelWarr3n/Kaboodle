@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Kaboodle/static/css/main.296ff767.chunk.css",
-    "main.js": "/Kaboodle/static/js/main.5a95158c.chunk.js",
-    "main.js.map": "/Kaboodle/static/js/main.5a95158c.chunk.js.map",
+    "main.css": "/Kaboodle/static/css/main.d79d4ba0.chunk.css",
+    "main.js": "/Kaboodle/static/js/main.54373ec1.chunk.js",
+    "main.js.map": "/Kaboodle/static/js/main.54373ec1.chunk.js.map",
     "runtime-main.js": "/Kaboodle/static/js/runtime-main.4f9ae1db.js",
     "runtime-main.js.map": "/Kaboodle/static/js/runtime-main.4f9ae1db.js.map",
     "static/js/2.56325bf6.chunk.js": "/Kaboodle/static/js/2.56325bf6.chunk.js",
     "static/js/2.56325bf6.chunk.js.map": "/Kaboodle/static/js/2.56325bf6.chunk.js.map",
     "index.html": "/Kaboodle/index.html",
-    "static/css/main.296ff767.chunk.css.map": "/Kaboodle/static/css/main.296ff767.chunk.css.map",
+    "static/css/main.d79d4ba0.chunk.css.map": "/Kaboodle/static/css/main.d79d4ba0.chunk.css.map",
     "static/js/2.56325bf6.chunk.js.LICENSE.txt": "/Kaboodle/static/js/2.56325bf6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4f9ae1db.js",
     "static/js/2.56325bf6.chunk.js",
-    "static/css/main.296ff767.chunk.css",
-    "static/js/main.5a95158c.chunk.js"
+    "static/css/main.d79d4ba0.chunk.css",
+    "static/js/main.54373ec1.chunk.js"
   ]
 }
