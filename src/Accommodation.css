@@ -2,12 +2,20 @@
     width: 100%;
     padding: 10px 0;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
 
 .accom-data {
     width: 80%;
+}
+
+.room-row {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
 }
 
 .room-data {

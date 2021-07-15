@@ -21,6 +21,7 @@ function Accommodation({ data1, data2, accom }) {
             ))}
           </ul>
         </div>
+        <div className="room-row">
           {data2.map(z => (
             x.rooms.map(room => (
               room.id === z.id &&
@@ -35,7 +36,7 @@ function Accommodation({ data1, data2, accom }) {
                 <button>Book Now!</button>
               </div>
             ))
-          ))}
+          ))}</div>
       </div>
     )))
 
