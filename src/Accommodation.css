@@ -1,0 +1,26 @@
+.accom-row {
+    width: 100%;
+    padding: 10px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.accom-data {
+    width: 80%;
+}
+
+.room-data {
+    margin-left: 10px;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: black 1px solid;
+    padding: 5px;
+}
+
+.bold {
+    font-weight: 700;
+}
